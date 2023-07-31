@@ -1,0 +1,3 @@
+[submodule "NBASubstitutionPatterns"]
+	path = NBASubstitutionPatterns
+	url = https://github.com/mleos/NBASubstitutionPatterns.git
